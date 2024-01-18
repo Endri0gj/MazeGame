@@ -13,6 +13,7 @@ Union Find Algorithm: Efficiently find and connect paths in the maze using Union
 Interactive Gameplay: Navigate through the maze, solving it by finding the optimal path from start to finish.
 
 How to Play
+
 Terminal Mode:
 
 Compile and run the program in the terminal.
@@ -26,6 +27,7 @@ Maze Generation:
 
 Witness the power of Union Find as it dynamically creates random mazes for a unique gameplay experience.
 Getting Started
+
 To run the game, make sure you have Java installed on your system. Clone the repository and compile the Java files. Choose the mode (terminal or GUI) and start exploring the mazes!
 
 
